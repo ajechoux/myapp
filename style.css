@@ -1,0 +1,31 @@
+title {
+	color: (240,35,100)
+}
+.superH2{
+	color: blue
+}
+h1{
+  font-family: Courier;
+  color: blue;
+  font-weight: lighter;
+  font-size: 10px;
+}
+a {
+  color: green;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+.bleu{
+	color: blue;
+}
+.bleu:hover 
+{
+  text-decoration: none;
+  color: orange;	
+}
+#content{
+	background-color: rouge;
+	height: 100vh;
+}
